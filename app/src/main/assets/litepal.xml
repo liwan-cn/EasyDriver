@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value="easy_driver"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.bupt.easydriver.database.Student"/>
+    </list>
+</litepal>
